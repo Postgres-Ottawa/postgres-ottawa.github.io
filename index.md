@@ -5,8 +5,4 @@ Hello, World!
   <div class="snowflake">❅</div>
   <div class="snowflake">❆</div>
 </div>
-<style>
-  body {
-    background-color: #E6E6FA;
-  }
-</style>
+
